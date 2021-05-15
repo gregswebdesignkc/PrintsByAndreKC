@@ -1,0 +1,43 @@
+/* Simple Drop Down Menu ..
+When you try to make a drop down menu in css. Its is difficult to learn and understand how altmenus work .. 
+
+jquery is a easy way to control altmenus with mouseover and mouseleave method ..
+
+In drop down menu, one of the problems is how to position altmenus under menus ..
+
+You use - position:absolute; left:0; -
+
+But dont forget menus to position:relative;
+
+i hope you like this drop down menu 
+*/
+body { margin:auto; margin-top:50px;}
+
+h1 { font-family:Cuprum; text-align:center;}
+
+#mymenu { position:absolute; width:900px; top:100; margin:auto; right:0; left:0; font-family:Cuprum; font-weight: bold; text-transform: uppercase;}
+
+#mymenu ul { list-style: none; margin: 0; padding: 0;}
+
+#mymenu ul li { 
+
+
+width:150px; 
+height:40px;
+background:green; 
+color:white; position:relative; float: left; display: inline;
+padding: 10px;
+text-align: center;
+line-height: 40px;
+border:1px solid white;
+}
+
+#mymenu ul li:hover { 
+
+background:blue; 
+
+}
+
+#mymenu ul li ul { left:0; position: absolute; top:61px;}
+
+a { color:white; text-decoration: none;}
