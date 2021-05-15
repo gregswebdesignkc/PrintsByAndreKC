@@ -1,5 +1,1 @@
-# Drop Down Menu
-
-A Pen created on CodePen.io. Original URL: [https://codepen.io/gpokingpin/pen/MWJBqqJ](https://codepen.io/gpokingpin/pen/MWJBqqJ).
-
-Easy Drop Down Menu 
+Please note that on the index.html page that the photos at the bottom of the page are not spaced out like i origianlly have them on the website.
