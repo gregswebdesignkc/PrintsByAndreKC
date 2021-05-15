@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+body {
+    /* margin:auto;  */
+    margin: 10px;
+    background-color: grey;
+}
+
+nav {
+    background-color: black;
+    color: white;
+    justify-content: space-evenly;
+    display: flex;
+    height: 60px;
+    width: 100%;
+}

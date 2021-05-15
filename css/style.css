@@ -51,3 +51,9 @@ h1 {
     display: table;
     clear: both;
   } */
+
+.container {
+    justify-content:space-around;
+}
+
+
