@@ -1,0 +1,276 @@
+    <div class="wrapper">
+        <div class="master">
+            <div class="shell">
+                <!--Contains header options in Portal Header such as Customize demo, Pages Flows and Feedback. Also contains menu options for mobile-->
+                <style>
+                .nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
+                    color: #009cdb;
+                    background-color: #ffffff;
+                    text-decoration: underline;
+                }
+
+                .dropdown-menu {
+                    background-color: #25A1D9;
+                }
+
+                .dropdown-menu > li > a {
+                    color: #ffffff;
+                }
+
+                a {
+                    color: #009cdb;
+                    font-size: 14px;
+                    font-weight: 400;
+                }/* mouse over link */
+
+                .headerIcons:focus, .headerIcons:hover {
+                    color: #009cdb;
+                    text-decoration: none;
+                }/* selected link */
+
+                .headerIcons:focus, .headerIcons:active {
+                    color: #009cdb;
+                    outline: none;
+                }
+
+                .dropdown-submenu {
+                    position: relative;
+                }
+
+                .dropdown-submenu > .dropdown-menu {
+                    top: 0;
+                    left: 100%;
+                    margin-top: -6px;
+                    margin-left: -1px;
+                    -webkit-border-radius: 0 6px 6px 6px;
+                    -moz-border-radius: 0 6px 6px;
+                    border-radius: 0 6px 6px 6px;
+                }
+
+                .dropdown-submenu:hover > .dropdown-menu {
+                    display: block;
+                }
+
+                .dropdown-submenu > a:after {
+                    display: block;
+                    content: " ";
+                    float: right;
+                    width: 0;
+                    height: 0;
+                    border-color: transparent;
+                    border-style: solid;
+                    border-width: 5px 0 5px 5px;
+                    border-left-color: #ccc;
+                    margin-top: 5px;
+                    margin-right: -10px;
+                }
+
+                .dropdown-submenu:hover > a:after {
+                    border-left-color: #fff;
+                }
+
+                .dropdown-submenu.pull-left {
+                    float: none;
+                }
+
+                .dropdown-submenu.pull-left > .dropdown-menu {
+                    left: -100%;
+                    margin-left: 10px;
+                    -webkit-border-radius: 6px 0 6px 6px;
+                    -moz-border-radius: 6px 0 6px 6px;
+                    border-radius: 6px 0 6px 6px;
+                }
+                                <!--Contains header options in Portal Header such as Customize demo, Pages Flows and Feedback. Also contains menu options for mobile-->
+                <style>
+                .nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
+                    color: #009cdb;
+                    background-color: #ffffff;
+                    text-decoration: underline;
+                }
+
+                .dropdown-menu {
+                    background-color: #25A1D9;
+                }
+
+                .dropdown-menu > li > a {
+                    color: #ffffff;
+                }
+
+                a {
+                    color: #009cdb;
+                    font-size: 14px;
+                    font-weight: 400;
+                }/* mouse over link */
+
+                .headerIcons:focus, .headerIcons:hover {
+                    color: #009cdb;
+                    text-decoration: none;
+                }/* selected link */
+
+                .headerIcons:focus, .headerIcons:active {
+                    color: #009cdb;
+                    outline: none;
+                }
+
+                .dropdown-submenu {
+                    position: relative;
+                }
+
+                .dropdown-submenu > .dropdown-menu {
+                    top: 0;
+                    left: 100%;
+                    margin-top: -6px;
+                    margin-left: -1px;
+                    -webkit-border-radius: 0 6px 6px 6px;
+                    -moz-border-radius: 0 6px 6px;
+                    border-radius: 0 6px 6px 6px;
+                }
+
+                .dropdown-submenu:hover > .dropdown-menu {
+                    display: block;
+                }
+
+                .dropdown-submenu > a:after {
+                    display: block;
+                    content: " ";
+                    float: right;
+                    width: 0;
+                    height: 0;
+                    border-color: transparent;
+                    border-style: solid;
+                    border-width: 5px 0 5px 5px;
+                    border-left-color: #ccc;
+                    margin-top: 5px;
+                    margin-right: -10px;
+                }
+
+                .dropdown-submenu:hover > a:after {
+                    border-left-color: #fff;
+                }
+
+                .dropdown-submenu.pull-left {
+                    float: none;
+                }
+
+                .dropdown-submenu.pull-left > .dropdown-menu {
+                    left: -100%;
+                    margin-left: 10px;
+                    -webkit-border-radius: 6px 0 6px 6px;
+                    -moz-border-radius: 6px 0 6px 6px;
+                    border-radius: 6px 0 6px 6px;
+                }
+                <!--Contains header options in Portal Header such as Customize demo, Pages Flows and Feedback. Also contains menu options for mobile-->
+                .nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
+                    color: #009cdb;
+                    background-color: #ffffff;
+                    text-decoration: underline;
+                }
+
+                .dropdown-menu {
+                    background-color: #25A1D9;
+                }
+
+                .dropdown-menu > li > a {
+                    color: #ffffff;
+                }
+
+                a {
+                    color: #009cdb;
+                    font-size: 14px;
+                    font-weight: 400;
+                }/* mouse over link */
+
+                .headerIcons:focus, .headerIcons:hover {
+                    color: #009cdb;
+                    text-decoration: none;
+                }/* selected link */
+
+                .headerIcons:focus, .headerIcons:active {
+                    color: #009cdb;
+                    outline: none;
+                }
+
+                .dropdown-submenu {
+                    position: relative;
+                }
+
+                .dropdown-submenu > .dropdown-menu {
+                    top: 0;
+                    left: 100%;
+                    margin-top: -6px;
+                    margin-left: -1px;
+                    -webkit-border-radius: 0 6px 6px 6px;
+                    -moz-border-radius: 0 6px 6px;
+                    border-radius: 0 6px 6px 6px;
+                }
+
+                .dropdown-submenu:hover > .dropdown-menu {
+                    display: block;
+                }
+
+                .dropdown-submenu > a:after {
+                    display: block;
+                    content: " ";
+                    float: right;
+                    width: 0;
+                    height: 0;
+                    border-color: transparent;
+                    border-style: solid;
+                    border-width: 5px 0 5px 5px;
+                    border-left-color: #ccc;
+                    margin-top: 5px;
+                    margin-right: -10px;
+                }
+
+                .dropdown-submenu:hover > a:after {
+                    border-left-color: #fff;
+                }
+
+                .dropdown-submenu.pull-left {
+                    float: none;
+                }
+
+                .dropdown-submenu.pull-left > .dropdown-menu {
+                    left: -100%;
+                    margin-left: 10px;
+                    -webkit-border-radius: 6px 0 6px 6px;
+                    -moz-border-radius: 6px 0 6px 6px;
+                    border-radius: 6px 0 6px 6px;
+                }
+                
+					<!--API History-->
+					.headerCode {
+						white-space: pre-wrap;
+						font-size: 9pt;
+						padding: 4px;
+						color: black;
+						background-color: white;
+						font-family: monospace;
+					}
+				
+					.bodyCode {
+						white-space: pre-wrap;
+						font-size: 9pt;
+						padding: 4px;
+						color: black;
+						background-color: #eeeeee;
+						font-family: monospace;
+						overflow-wrap: break-word;
+					}
+					#reference-container > div {
+						margin-left: 80px;
+					}
+				
+					#reference-container > div > div.arrow {
+						margin-left: -86px;
+					}
+				
+					#reference-container > div > div.popover-content > div > div > div > span > img {
+						margin-top: 16px;
+					}
+
+<style>
+    #gdprCookieBanner a#acceptAllButton:hover, #gdprCookieBanner a#acceptAllButton:focus {
+        color: #0070ba;
+    }
+    </style>

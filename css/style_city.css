@@ -3,14 +3,16 @@
 }
 
 a {
+    justify-content: space-between;
     color: whitesmoke;
     text-decoration: none;
+    padding-top: 20px;
+    padding-right: 40px;
+
 }
 
 body {
-    /* margin:auto;  */
-    margin: 10px;
-    background-color: grey;
+    background-color: whitesmoke;
 }
 
 nav {
@@ -20,4 +22,27 @@ nav {
     display: flex;
     height: 60px;
     width: 100%;
+}
+
+
+.contain {
+    max-width: 960px;
+    text-align: center;
+  }
+  
+  .social {
+    position: relative;
+    display: block;
+    float: left;
+    padding: 10px;
+  }
+
+  #row1_box1 {
+      margin-top: 40px;
+      margin-right: 40px;
+      margin-bottom: 40px;
+      margin-left: 40px;
+      padding-right: 20px;
+      flex: auto;
+
 }

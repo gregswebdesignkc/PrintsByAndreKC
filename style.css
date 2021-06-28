@@ -1,0 +1,38 @@
+<section class="city_prints">
+        <style>
+          .album {
+            min-height: 50rem;
+            padding-top: 3rem;
+            padding-bottom: 3rem;
+          }
+          .album .card {
+            float: left;
+            width: 33.333%;
+            padding: .75rem;
+            margin-bottom: 2rem;
+            border: 0;
+          }
+        </style>      <section class="">
+       <!-- <style>
+          .album {
+            min-height: 50rem;
+            padding-top: 3rem;
+            padding-bottom: 3rem;
+          }
+          .album .card {
+            float: left;
+            width: 33.333%;
+            padding: .75rem;
+            margin-bottom: 2rem;
+            border: 0;
+          }
+        </style>-->
+        <div class="album">
+          <div class="container">
+            <div class="row">
+	            <style>
+	            img {
+ 			 pointer-events: none;
+				}
+				</style>
+				
